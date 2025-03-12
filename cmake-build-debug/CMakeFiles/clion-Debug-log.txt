@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\kevin\OneDrive\Escritorio\POO\TAREA 2\3-ejercicio-de-dise-o-y-codificaci-n-kevin-herrera-y-andres-diaz Select CMakeLists.txt

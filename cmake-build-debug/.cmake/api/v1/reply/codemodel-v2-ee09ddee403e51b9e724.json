@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3_ejercicio_de_dise_o_y_codificaci_n_kevin_herrera_y_andres_diaz",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3_ejercicio_de_dise_o_y_codificaci_n_kevin_herrera_y_andres_diaz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_ejercicio_de_dise_o_y_codificaci_n_kevin_herrera_y_andres_diaz-Debug-faf11d3c26c53c7fe05e.json",
+					"name" : "3_ejercicio_de_dise_o_y_codificaci_n_kevin_herrera_y_andres_diaz",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kevin/OneDrive/Escritorio/POO/TAREA 2/3-ejercicio-de-dise-o-y-codificaci-n-kevin-herrera-y-andres-diaz/cmake-build-debug",
+		"source" : "C:/Users/kevin/OneDrive/Escritorio/POO/TAREA 2/3-ejercicio-de-dise-o-y-codificaci-n-kevin-herrera-y-andres-diaz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

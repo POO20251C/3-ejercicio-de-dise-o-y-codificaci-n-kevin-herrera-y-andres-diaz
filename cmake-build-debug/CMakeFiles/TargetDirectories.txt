@@ -1,0 +1,3 @@
+C:/Users/kevin/OneDrive/Escritorio/POO/TAREA 2/3-ejercicio-de-dise-o-y-codificaci-n-kevin-herrera-y-andres-diaz/cmake-build-debug/CMakeFiles/3_ejercicio_de_dise_o_y_codificaci_n_kevin_herrera_y_andres_diaz.dir
+C:/Users/kevin/OneDrive/Escritorio/POO/TAREA 2/3-ejercicio-de-dise-o-y-codificaci-n-kevin-herrera-y-andres-diaz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/OneDrive/Escritorio/POO/TAREA 2/3-ejercicio-de-dise-o-y-codificaci-n-kevin-herrera-y-andres-diaz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
