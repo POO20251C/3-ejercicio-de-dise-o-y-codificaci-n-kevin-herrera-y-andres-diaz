@@ -67,4 +67,11 @@ std::vector<venta> tienda::consultarCompras(const cliente& cliente) {
 
   return comprasCliente;
 }
-
+producto tienda::buscarProductoPorId(int id) {
+    for (auto& producto : productos) {
+        if (producto.getid() == id) {
+            return producto;  // Retorna el producto si se encuentra
+        }
+    }
+    return producto(-1, "", 0.0, 0);  // Retorna un producto inválido si no se encuentra
+}
