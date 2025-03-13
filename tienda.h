@@ -36,6 +36,7 @@ public:
   void agregarProducto(producto nuevoProducto);
   void registrarVenta(venta nuevaVenta);
   std::vector<venta> consultarCompras(const cliente& cliente);
+  producto buscarProductoPorId(int id);
 };
 
 #endif // TIENDA_H
